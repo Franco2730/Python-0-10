@@ -1,1 +1,1 @@
-# Python-0-10
+En las carpetas que siguen, les comparto con mucho cariño las instrucciones detalladas para sumergirse en el fascinante mundo del apreciado lenguaje de programación llamado Python. Además de seguir estos pasitos, les brindo material adicional con el fin de enriquecer sus conocimientos de una manera amena y didáctica. ¡Espero de corazón que encuentren mucho beneficio y disfruten al máximo este recurso! ¡A programar con amor! 🐍💻💖

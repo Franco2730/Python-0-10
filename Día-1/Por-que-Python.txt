@@ -1,0 +1,31 @@
+Podrían preguntarse, ¿por qué deberían aprender Python? Permítanme compartirles algunas razones poderosas:
+
+    Versatilidad: Python es un lenguaje de programación increíblemente versátil. Puede para desarrollar una amplia gama de aplicaciones, desde desarrollo web hasta inteligencia artificial, análisis de datos y automatización de tareas.
+
+    Sintaxis Clara y Legible: Python se destaca por su sintaxis clara y legible. Su estructura se asemeja al lenguaje natural, lo que facilita la comprensión y escritura de código, especialmente para aquellos que están comenzando en el mundo de la programación.
+
+    Comunidad Activa: Python cuenta con una comunidad global activa y colaborativa. Esto significa que siempre hay recursos, bibliotecas y expertos disponibles para ayudar y apoyar a quienes están aprendiendo.
+
+    Demanda Laboral: Las habilidades en Python son altamente demandadas en la actualidad. Muchas empresas buscan programadores proficientes en Python debido a su utilidad en diversos campos, lo que convierte este conocimiento en una valiosa herramienta en el mercado laboral.
+
+    Potencial de Innovación: Python es una herramienta clave en el mundo de la inteligencia artificial, el aprendizaje automático y la ciencia de datos. Aprender Python abrirá puertas a oportunidades de innovación y desarrollo en estas áreas de rápido crecimiento.
+
+Esta guia se enfocará en brindarles las habilidades esenciales para dominar Python, desde los conceptos básicos hasta proyectos más avanzados. Les proporcionaré un ambiente de aprendizaje ameno y práctico, con recursos adicionales para enriquecer su comprensión.
+
+
+    Antes de comenzar, vamos a instalar los programas para poder escribir nuestro codigo y el lenguaje como tal (Python). Es decir, Python es como el lenguaje Español, nosotros podemos escribir en un libro, en un archivo Word o en cualquier lugar. Lo mismo sucede con Python pero el beneficio de un buen IDE que significa: Entorno Integrado de Desarrollo es que nos brinda erramientas para programar con menos problemas y mas ayudas :) 
+
+    Python:
+
+    https://www.python.org/
+
+    VSC
+    https://code.visualstudio.com/download
+
+    Pycharm
+    https://www.jetbrains.com/pycharm/download/?source=google&medium=cpc&campaign=14127625370&gclid=CjwKCAiAv_KMBhAzEiwAs-rX1E69P0BVt7lxCoibh3yc-_pm1cxARFzrlXOhX_Gm3pTbTP5pqkZILBoCBgYQAvD_BwE&section=windows#section=windows
+
+    
+
+Estoy emocionado por la posibilidad de guiarlos en este viaje. La programación en Python no solo es una habilidad valiosa, sino también una experiencia gratificante. 
+
