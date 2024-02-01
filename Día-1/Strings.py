@@ -8,7 +8,7 @@ print(100 + 50) # Acá si son tratados como numeros. La consola mostrará 150
 
 print("Hola" + "chicos" + "soy Franco") # Holachicossoy Franco
 
-print("Hola" + " " "chicos" + " " + "soy Franco") # Hola chicos soy Franco
+print("Hola" + " " "chicos" + " " + "soy Franco") # Hola chicos soy Franco.
 
 # Tenemos una pequeña pero muy útil herramienta que es la barra invertida: \ esta sirve para decirle a nuestro IDE que el siguiente carácter no tiene que ser tratado de forma especial si no, textual. 
 # Al principio teníamos un problema que no podíamos poner todas comillas dobles en un print si queríamos mostrar algo en consola que tuviera de por si comillas. Con nuestra barra invertida podemos decirle al ide:  ¡¡Oye !! al siguiente carácter no lo trates como comillas, imprime su forma, pero no su función!
