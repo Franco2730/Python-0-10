@@ -28,3 +28,13 @@ color_auto = "rojo"
 matricula = 15222
 
 print(f"Mi auto es de color: {color_auto} con la matricula: {matricula}") # Mi auto es de color: rojo con la matricula: 15222
+
+
+# Otra forma podría ser:
+
+puntos_anteriores = 875
+puntos_nuevos = 350
+
+print(f"Has ganado {puntos_nuevos} puntos! En total, acumulas {puntos_nuevos + puntos_anteriores} puntos")
+
+
