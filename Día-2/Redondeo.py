@@ -13,6 +13,12 @@ print(redondeo) # 13
 #--------------
 
 # Que pasa si queremos ver únicamente dos decimales ? Algo MUY importante a tener en cuenta es que round nos solicita 2 parametros. El primero es obligatorio y es el número que vamos a redondear y el segundo parametro es justamente esto, es la cantidad de decimales que queremos en nuestro resultado.
-valor = round(95.66666666666666666666, 2)
+valorRedondeado = round(95.66666666666666666666, 2)
+valorSinRedondear = 95.666666666666666
 
-print(valor) # 95.67
+print(valorRedondeado) # 95.67
+
+# Tambien podemos ver el TIPO de valor:
+print(type(valorRedondeado))
+print(type(valorRedondeado))
+
