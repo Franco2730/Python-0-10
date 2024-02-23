@@ -80,3 +80,12 @@ desorden1.reverse()
 print(desorden1) # [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 
 
+#* También podemos asignar el contenido de una lista a diferentes variables:
+listaa = (1, 2, 3, 4, 5)
+
+a, b, c, d, e = listaa
+
+print(a, b, c, d, e) # 1 2 3 4 5 => ¿Qué es lo que ha pasado? Simplemente, al crear un determinado número de valores y ese mismo número determinado de variables, lo que ha sucedido es que se asignan automáticamente. Si tuviera más o menos valores o variables, automáticamente la consola nos arroja un error de que esperaba mas o menos valores o variables. Esto funciona en las listas, diccionarios y tuples
+
+
+
