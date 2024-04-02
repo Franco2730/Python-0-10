@@ -2,7 +2,6 @@
 # IF significa Si (Si pasa tal cosa...)
 # Elif sifnicia Si no (si no pasa eso entonces...)
 # else significa entonces(Si no se ha cumplido ninguna condición, entonces haz tal cosa...)
-# Esto significa:
 
 if 5 == 2:
     print('5 es igual a 2') # Esta parte del código no se imprimirá, porque esa condición es claramente falsa.
@@ -10,8 +9,7 @@ else:
     print('5 es mayor a 2') # Se imprimirá este mensaje
 
 
-
-mascota = 'perro'
+mascota = 'dinosaurio'
 
 if mascota == 'gato':
     print('Tu tienes un lindo gatito')
@@ -24,6 +22,7 @@ elif mascota == 'dinosaurio':
 else:
     print("No se que mascota tienes")
 
+#* La consola mostrará: WOW, Debes gastar mucho dinero en vacas para su almuerzo
 
 
 SeCumpleCondicion1 = False

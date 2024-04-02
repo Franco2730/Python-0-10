@@ -112,9 +112,8 @@ edad = 18 >= 18 # => Si esto da True la primera condición se cumple
 
 
 
-
 # En la siguiente consigna, no estamos dando una comparación si no, una orden. estamos asignamos un valor a una variable.
-notaDaniela = 5.5
+notaFranco = 5.5
 
 # Si queremos comparar, vamos a colocar doble signos iguales para preguntar si algo es igual a algo, por ejemplo:
 mi_bool = 100 == 100 # Esto daría como resultado True... ya que 100 es igual a 100
@@ -123,7 +122,7 @@ mi_bool = 100 == 100 # Esto daría como resultado True... ya que 100 es igual a 
 mi_bool2 = "Blanco" == "blanco" # => False, ya que Python es sensible a mayusculas, para que sea True debemos:
 mi_bool3 = "Blanco" == "blanco".lower() # => Acá daría True ya que transformamos todos los caracteres en minusculas. 
 
-if notaDaniela >=7.0:
+if notaFranco >=7.0:
     print("Felicitaciones Dani !!!\n\n")
 else:
     print("No vas a recibir ningun regalo \n\n")

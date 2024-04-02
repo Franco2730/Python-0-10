@@ -35,8 +35,8 @@ nombres = ['Juan', 'Agustina', 'Marcos', 'Carlos', 'Belen', 'Fran']
 
 #* Pero como podemos estar analizando, si elemento contiene un valor (un nombre distinto en cada vuelta) no podriamos realizar un saludo un poco mas personalizado? Veamos !!!
 
-# for elemento in nombres:
-#     print('Hola ', elemento, '¿Como estás el día de hoy?')
+for elemento in nombres:
+    print('Hola ', elemento, '¿Como estás el día de hoy?')
 
 # Hola  Juan ¿Como estás el día de hoy?
 # Hola  Agustina ¿Como estás el día de hoy?
@@ -102,3 +102,12 @@ for i in abc:
 # La letra 25: x
 # La letra 26: y
 # La letra 27: z
+    
+
+#* Ahora vamos a recorrer una lista de amigos y, ademas de recorrer dicha lista, dentro del bucle for vamos a verificar si el nombre (en cada vuelta del loop) comienza con una letra especifica, esto se logra con el método startwith()
+    
+amigos = ['Emilia', 'Emanuel', 'Luciano', 'Rocio', 'Romina', 'Federico']
+
+for nombre in amigos:
+    if nombre.startswith("E"):
+        print(nombre)
