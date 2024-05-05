@@ -18,3 +18,13 @@
 
 
 #* Por ahora lo estoy manteniendo súper simple para asegurarme de que todos podamos entenderlo con facilidad pero vamos a ver que este abordaje brinda aplicaciones infinitas y muy pero muy útiles veamos este mismo ejemplo pero la pantalla negra para que lo puedas aplicar tú mismo también :) 
+
+#* Supongamos que desarrollamos una función que retorna una función, al momento de invocarla, no se imprimirá nada en pantalla, pero devolverá un valor, y ese valor lo podemos agregar en una variable. Eso nos brinda un mundo de posibilidades. Por ejemplo:
+
+def sumar(num1, num2):
+    return num1 + num2
+
+
+devolverSuma = sumar(10, 100)
+
+print(devolverSuma) # 110
