@@ -1,9 +1,9 @@
-# Vamos a hacer algo que ya sabemos: Vamos a crear una fn que se encargara de chequear si un número (que le pasamos por parametro) esta en un rango de 100 y 1000 (el mil no entra, asique del 100 al 999)
+# Vamos a hacer algo que ya sabemos: Vamos a crear una fn que se encargara de chequear si un número (que le pasamos por parámetro) está en un rango de 100 y 1000 (el mil no entra, asique del 100 al 999)
 
 def chequear_3_cifras(numero):
     return numero in range(100,1000)
 
-# A continuación vamos a crear una variable llamada resultado que será igual a la función anteriormente realizada con su respectivo parametro.
+# A continuación vamos a crear una variable llamada resultado que será igual a la función anteriormente realizada con su respectivo parámetro.
 
 # resultado = chequear_3_cifras(103) # True
 # resultado2 = chequear_3_cifras(190) # True
@@ -12,7 +12,7 @@ def chequear_3_cifras(numero):
 
 # print(resultado4)
 
-#* Ahora supongamos que necesito, en vez de pasarle un solo número, necesito pasarle muchos números y que ahi nos diga si alguno de esos neros tiene 3 cifras
+#* Ahora supongamos que necesito, en vez de pasarle un solo número, necesito pasarle muchos números y que ahí nos diga si alguno de esos neros tiene 3 cifras
 
 # def chequear_lista(lista):
 #     for i in lista:
@@ -42,3 +42,4 @@ def corroborar_lista(lista): # [10, 100, 200, 300, 800, 1000, 2000]
 resultado2 = corroborar_lista([10, 100, 200, 300, 800, 1000, 2000])
 
 print(resultado2) # [100, 200, 300, 800]
+

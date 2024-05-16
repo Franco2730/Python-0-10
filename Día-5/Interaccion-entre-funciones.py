@@ -14,7 +14,7 @@ def probar_suerte():
     intento = ''
 
     while intento not in ['1', '2', '3', '4', '5']:
-        intento = input("Elige un numero del 1 al 5: ")
+        intento = input("Elige un número del 1 al 5: ")
 
     return int(intento)
 
@@ -29,5 +29,6 @@ def chequear_intento(lista, intento):
 palitos_mezclados = mezclar(palitos)
 seleccion = probar_suerte()
 chequear_intento(palitos_mezclados, seleccion)
+
 
 

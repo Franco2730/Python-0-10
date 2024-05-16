@@ -19,7 +19,7 @@ precios_cafe = [('Capuchino', 1200),('Te', 4500), ('Expresso', 1350), ('Moka', 1
 # 607.5
 # 675.0
 
-#* Ahora, como podemos averiguar cual es el café mas caro ?? Necesitamos una función que retenga el primero y vaya comparando.
+#* Ahora, como podemos averiguar cuál es el café más caro ?? Necesitamos una función que retenga el primero y vaya comparando.
 
 def cafe_mas_caro(lista_precios):
     precio_mayor = 0
@@ -35,4 +35,5 @@ def cafe_mas_caro(lista_precios):
     return(cafe_caro, precio_mayor)
 
 print(cafe_mas_caro(precios_cafe)) # ('Te', 4500)
+
 

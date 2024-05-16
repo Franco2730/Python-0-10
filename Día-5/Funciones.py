@@ -9,12 +9,11 @@
 #     '''Esta función se encarga de imprimir un saludo'''
 #     print("Hola querido/a: ")
 
-#* ¿ Pero cómo se ejecuta ? bueno cada vez que escribamos en cualquier otra parte de nuestro código el nombre de la función (mi_funcion_saluda) y sus paréntesis, Python va a ejecutar lo que sea que haya dentro de nuestra función.
+#* ¿Pero cómo se ejecuta? bueno cada vez que escribamos en cualquier otra parte de nuestro código el nombre de la función (mi_funcion_saluda) y sus paréntesis, Python va a ejecutar lo que sea que haya dentro de nuestra función.
 #* Ahora sí les prestemos atención a los paréntesis como te dije puedes usar los paréntesis para ingresar un parámetro o un argumento dentro de tu función yo por ejemplo aquí puse el parámetro nombre este es una especie de variable interna le podría haber puesto cualquier palabra, yo elegí nombre. Aunque al momento de escribir mi función yo no sé cuál va a ser el valor de este parámetro puede usarlo para que sea cual sea luego Su contenido yo lo pueda invocar desde cualquier lugar dentro de la función por ejemplo para concatenarlo con mi string de "Hola querido/a ..." si luego al momento de invocar la función pongo dentro del paréntesis un valor cualquiera por ejemplo Franco, bueno ahora le estoy dando un contenido a la variable nombre que lo va a poder usar en la concatenación y ahora el resultado de mi función va a ser la impresión de la expresión Hola querido/a Franco. 
 
 # def mi_funcion_saluda(nombre):
 #     print("Hola querido/a: ")
-
 
 #* Por ahora lo estoy manteniendo súper simple para asegurarme de que todos podamos entenderlo con facilidad, pero vamos a ver que este abordaje brinda aplicaciones infinitas y muy pero muy útiles veamos este mismo ejemplo, pero la pantalla negra para que lo puedas aplicar tú mismo también :) 
 
@@ -26,4 +25,5 @@ def sumar(num1, num2):
 devolverSuma = sumar(10, 100)
 
 print(devolverSuma) # 110
+
 
