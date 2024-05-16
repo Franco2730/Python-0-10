@@ -12,7 +12,7 @@ else:
 mascota = 'dinosaurio'
 
 if mascota == 'gato':
-    print('Tu tienes un lindo gatito')
+    print('Tu tienes un lindo gatito') 
 elif mascota == 'Hamster':
     print('Tu tienes un lindo ratoncito')
 elif mascota == 'pez':
